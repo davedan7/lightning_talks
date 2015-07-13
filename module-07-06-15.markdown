@@ -18,7 +18,7 @@
 Talks:
 
 * Michelle Golle- "Susan Cain: A Quiet Revolution"
-* David Daniel
+* David Daniel - "AngularJS - an overview" OR "How to optimize your editor"
 * Andrew Fink - Bioinformatics - "the DNA code to code code"
 * Max Tedford - "Wine 102: How Tech is Changing the Wine Industry"
 * Drew Conly
